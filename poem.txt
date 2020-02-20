@@ -8,5 +8,6 @@ blue
 yellow
 red
 black
+white
 
 there are the colors of the rainbow.
