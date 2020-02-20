@@ -7,5 +7,6 @@ orange
 blue
 yellow
 red
+black
 
 there are the colors of the rainbow.
