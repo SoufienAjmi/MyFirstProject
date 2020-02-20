@@ -2,6 +2,7 @@ The rainbow
 
 puple
 pink 
+green
 orange 
 blue
 red
